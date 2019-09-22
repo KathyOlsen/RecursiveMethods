@@ -13,7 +13,7 @@ public class Main {
         System.out.println("\b\b\n");
 
         //display steps to reach 1 in the Collatz conjecture using a recursive method
-        //number 167 used as an example
+        //number 67 used as an example
         System.out.println("Collatz Conjecture Number 67:");
         int n = 67;
         getCollatzRecursive(n);
